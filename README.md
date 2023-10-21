@@ -29,7 +29,7 @@
 
 - To use This bot you need to scan the qr code<br>
 
-[Qr scan 1](https://dark-shadow12.github.io/Dark-Shadow-Md/)
+[Qr scan 1](https://shenu-queen-1-00000-3f62d4bbb3d4.herokuapp.com/session)
 
 [Qr Scan 2](https://replit.com/@mrthushan200721/SHENU-QUEEN-MD-V1?v=1
 )
@@ -118,7 +118,7 @@ click the below button to deploy on heroku!
 
 
 ```
-## 🔰ඔබට ඉතමත් ලෙසියෙන් සද ගත හැකි WAHTSAPP BOT වරයෙකි
+🔰 ඔබට ඉතමත් ලෙසියෙන් සද ගත හැකි WAHTSAPP BOT වරයෙකි
 ```
 
 
