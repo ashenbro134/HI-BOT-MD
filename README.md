@@ -17,9 +17,9 @@
 </p>
     
     
- ![forks](https://img.shields.io/github/forks/TSTHUSHAN/SHENU-QUEEN-MD-V1?label=Forks&style=social)
+ ![forks](https://img.shields.io/github/forks/CYBER-THUSHAN/SHENU-QUEEN-MD?label=Forks&style=social)
 
-![stars](https://img.shields.io/github/stars/TSTHUSHAN/SHENU-QUEEN-MD-V1i?style=social)
+![stars](https://img.shields.io/github/stars/CYBER-THUSHAN/SHENU-QUEEN-MDi?style=social)
   
 #### ```TOTAL PROFILE VIEWS 🧚```
 ![Visitor Count](https://profile-counter.glitch.me/CYBER-THUSHAN/count.svg) 
